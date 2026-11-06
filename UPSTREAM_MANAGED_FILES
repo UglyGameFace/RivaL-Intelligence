@@ -9,6 +9,7 @@ benchmark_cases.json
 build.sh
 discloud.config
 discovery.py
+error_report.py
 evidence_policy.py
 main.py
 model_download.py
