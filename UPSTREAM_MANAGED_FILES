@@ -17,3 +17,4 @@ requirements.txt
 service.py
 validate_package.py
 verify_live.py
+voice_moderation.py
